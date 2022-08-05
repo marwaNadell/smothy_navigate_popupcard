@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/smothy_navigate_popupcard/static/css/main.a83c3006.css",
+    "main.js": "/smothy_navigate_popupcard/static/js/main.5fa56000.js",
+    "static/media/fa-solid-900.ttf": "/smothy_navigate_popupcard/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/fa-brands-400.ttf": "/smothy_navigate_popupcard/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/fa-solid-900.woff2": "/smothy_navigate_popupcard/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/fa-brands-400.woff2": "/smothy_navigate_popupcard/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/fa-regular-400.ttf": "/smothy_navigate_popupcard/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/1.png": "/smothy_navigate_popupcard/static/media/1.4417330275f78faa31c3.png",
+    "static/media/3.png": "/smothy_navigate_popupcard/static/media/3.494a4a914b5471b41f3e.png",
+    "static/media/4.png": "/smothy_navigate_popupcard/static/media/4.a940b57aa7bab2eacc52.png",
+    "static/media/6.png": "/smothy_navigate_popupcard/static/media/6.48c9704ca7f8ce901038.png",
+    "static/media/fa-regular-400.woff2": "/smothy_navigate_popupcard/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/5.png": "/smothy_navigate_popupcard/static/media/5.01792c0bdc342bf4bf9c.png",
+    "static/media/2.png": "/smothy_navigate_popupcard/static/media/2.6554473016d32b343f02.png",
+    "static/media/ava.svg": "/smothy_navigate_popupcard/static/media/ava.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/smothy_navigate_popupcard/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/smothy_navigate_popupcard/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "index.html": "/smothy_navigate_popupcard/index.html",
+    "main.a83c3006.css.map": "/smothy_navigate_popupcard/static/css/main.a83c3006.css.map",
+    "main.5fa56000.js.map": "/smothy_navigate_popupcard/static/js/main.5fa56000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83c3006.css",
+    "static/js/main.5fa56000.js"
+  ]
+}
